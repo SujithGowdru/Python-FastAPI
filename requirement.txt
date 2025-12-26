@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+
+sqlalchemy
+sqlmodel
+aiosqlite
+
+fastapi-users[sqlalchemy]
+python-jose
+passlib[bcrypt]
+
+python-multipart
+pydantic
+email-validator
+
+imagekitio
+python-dotenv
